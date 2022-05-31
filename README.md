@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/openpeep/marvdown/main/.github/logo.png" width="170px"><br>
+    <img src="https://raw.githubusercontent.com/openpeep/marvdown/main/.github/marvdown-logo.png" width="170px"><br>
     ⚡️A stupid simple Markdown parser
 </p>
 
