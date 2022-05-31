@@ -1,11 +1,10 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/openpeep/marvdown/main/.github/marvdown-logo.png" width="170px"><br>
+    <img src="https://raw.githubusercontent.com/openpeep/marvdown/main/.github/logo.png" width="170px"><br>
     ⚡️A stupid simple Markdown parser
 </p>
 
 ## 😍 Key Features
-- [x] Made with Love
-- [x] ...
+- [ ] Made with [TokTok](https://github.com/openpeep/toktok)
 - [x] Open Source
 
 ## Installing
@@ -26,6 +25,6 @@ If you like this project you can contribute to Marvdown by opening new issues, f
 <strong>Why Nim?</strong> Performance, fast compilation and C-like freedom. We want to keep code clean, readable, concise, and close to our intention. Also a very good language to learn in 2022.
 
 ### 🎩 License
-Illustration made by [Olha](https://www.deviantart.com/jo316)<br>
+💙 Illustration made by [Olha](https://www.deviantart.com/jo316)<br><br>
 **Marvdown** is an Open Source Software released under `MIT` license. [Developed by Humans from OpenPeep](https://github.com/openpeep).<br>
 Copyright &copy; 2022 OpenPeep & Contributors &mdash; All rights reserved.
