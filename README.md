@@ -1,4 +1,7 @@
-<p align="center"><img src=".github/logo.png" width="140px"><br>OpenPeep's repository template for developing libraries,<br>projects and other cool things</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/openpeep/marvdown/main/.github/logo.png" width="170px"><br>
+    ⚡️A stupid simple Markdown parser
+</p>
 
 ## 😍 Key Features
 - [x] Made with Love
